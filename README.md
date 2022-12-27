@@ -1,6 +1,14 @@
-### Hi there 👋
+<div align="center">
+
+![Taekgil99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taekgil99&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taekgil99&layout=compact&theme=tokyonight&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!--
+
+[![Solved.ac pjwlover2005](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjwlover2005)](https://solved.ac/pjwlover2005)
+
 **Taekgil99/Taekgil99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
